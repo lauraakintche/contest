@@ -1,0 +1,37 @@
+<style>
+background-margin: 10px;
+
+nav {
+  width: 500px;
+  cursor: pointer;
+  font-family: calibri;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 15px;
+  background: grey;
+  text-align: center;
+}
+li {
+  display: inline;
+  padding: 0px 20px 0px 20px
+
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+div {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  background: url("https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/484183_10151295776654432_1158775355_n.jpg?_nc_cat=110&_nc_ht=scontent-lht6-1.xx&oh=9077ad967888b5f8f4cf846e553ce7fa&oe=5C3C4609");
+  background-size: cover;
+
+
+}
+
+</style>
