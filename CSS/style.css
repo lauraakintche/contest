@@ -1,5 +1,7 @@
 
-background-margin: 10px;
+html, body {
+  height: 100% !important;
+}
 
 nav {
   width: 500px;
@@ -25,12 +27,12 @@ a {
   text-decoration: none;
 }
 
-div {
+div#content {
   color: white;
   font-size: 50px;
   text-align: center;
   background: url("https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/484183_10151295776654432_1158775355_n.jpg?_nc_cat=110&_nc_ht=scontent-lht6-1.xx&oh=9077ad967888b5f8f4cf846e553ce7fa&oe=5C3C4609");
   background-size: cover;
-
+  height:100%;
 
 }
